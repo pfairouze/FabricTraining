@@ -45,8 +45,8 @@
     "p_sink_file": "AdventureWorks_Product_Categories.csv"
 },
 {
-    "p_rel_url": "pfairouze/FabricTraining/refs/heads/main/Data/AdventureWorks_Terittories.csv",
-    "p_sink_folder": "AdventureWorks_Product_Terittories",
-    "p_sink_file": "AdventureWorks_Product_Terittories.csv"
+    "p_rel_url": "pfairouze/FabricTraining/refs/heads/main/Data/AdventureWorks_Territories.csv",
+    "p_sink_folder": "AdventureWorks_Product_Territories",
+    "p_sink_file": "AdventureWorks_Product_Territories.csv"
 }
 ]
